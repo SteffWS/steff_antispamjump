@@ -11,4 +11,4 @@ How to:
 - Ensure the script is started in your server.cfg.
 
 Video: 
-https://discord.gg/kv2kvns2sY
+https://discord.gg/mjYDEhKNrQ
