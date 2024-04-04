@@ -10,5 +10,10 @@ How to:
 - Drag the script into your RedM server's resources folder.
 - Ensure the script is started in your server.cfg.
 
-Video: 
+Discord:
+
 https://discord.gg/mjYDEhKNrQ
+
+
+https://github.com/SteffWS/steff-antispamjump/assets/84989476/f6efc4f7-b8a4-4250-af62-a03c1b6df253
+
