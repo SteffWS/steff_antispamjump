@@ -9,3 +9,6 @@ How to:
 - Download the steff-antispamjump script.
 - Drag the script into your RedM server's resources folder.
 - Ensure the script is started in your server.cfg.
+
+Video: 
+https://discord.gg/kv2kvns2sY
