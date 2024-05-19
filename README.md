@@ -1,13 +1,34 @@
-This script is ideal for dealing with players who constantly spam the jump button. If they overdo it, their character will be ragdolled.
+# Steff Scripts Antispamjump
 
-How to:
+## Overview
+Enhance the fairness of your RedM server with Steff Scripts Antispamjump. This script helps manage players who excessively spam the jump button by ragdolling their character when they overdo it. Keep your server's gameplay balanced and enjoyable for everyone.
 
-- Download the steff-antispamjump script.
-- Drag the script into your RedM server's resources folder.
-- Ensure the script is started in your server.cfg.
+## Features
+- Anti-Spam Mechanism: Detects and ragdolls players who excessively spam the jump button.
+- Fair Play: Ensures a balanced gameplay experience by preventing disruptive behavior.
+- Efficient and Lightweight: Designed to be efficient and easy to integrate into your server.
 
-Join my discord: https://discord.gg/mjYDEhKNrQ
+## Installation
+1. Download the Script:
+Clone or download the script from the GitHub repository.
 
+3. Add to Your Resources:
+Place the steff-antispamjump folder in your RedM server resources directory.
 
-https://github.com/SteffWS/steff-antispamjump/assets/84989476/f6efc4f7-b8a4-4250-af62-a03c1b6df253
+Update server.cfg:
+Add the following line to your server.cfg to ensure the resource is started.
+ensure steff-antispamjump
 
+## Usage
+The script runs automatically once installed and started. It monitors players' jump actions and will ragdoll any player who excessively spams the jump button.
+
+### Example
+Here's an example of what happens when a player spams the jump button too many times:
+https://streamable.com/i1hydq
+
+## Contact
+For any issues, suggestions, or custom requests, join our Discord community.
+
+- Our Discord: https://discord.gg/SyNGm3eXmP
+
+- Project Link: https://github.com/SteffWS/steff-antispamjump
