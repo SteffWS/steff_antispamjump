@@ -17,6 +17,7 @@ Place the steff-antispamjump folder in your RedM server resources directory.
 
 #### 3. Update server.cfg:
 Add the following line to your server.cfg to ensure the resource is started.
+
 ensure steff-antispamjump
 
 ## Usage
