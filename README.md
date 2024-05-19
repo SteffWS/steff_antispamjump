@@ -1,4 +1,4 @@
-# Steff Scripts Antispamjump
+# Steff Scripts Antispamjump For RedM
 
 ## Overview
 Enhance the fairness of your RedM server with Steff Scripts Antispamjump. This script helps manage players who excessively spam the jump button by ragdolling their character when they overdo it. Keep your server's gameplay balanced and enjoyable for everyone.
