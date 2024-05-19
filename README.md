@@ -9,13 +9,13 @@ Enhance the fairness of your RedM server with Steff Scripts Antispamjump. This s
 - Efficient and Lightweight: Designed to be efficient and easy to integrate into your server.
 
 ## Installation
-1. Download the Script:
+##### 1. Download the Script:
 Clone or download the script from the GitHub repository.
 
-3. Add to Your Resources:
+##### 2. Add to Your Resources:
 Place the steff-antispamjump folder in your RedM server resources directory.
 
-Update server.cfg:
+##### 3. Update server.cfg:
 Add the following line to your server.cfg to ensure the resource is started.
 ensure steff-antispamjump
 
