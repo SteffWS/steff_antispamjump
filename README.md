@@ -1,35 +1,38 @@
-# Steff Scripts Antispamjump For RedM
+# 🚀 Advanced QBCore Job Center
 
-## Overview
-Enhance the fairness of your RedM server with Steff Scripts Antispamjump. This script helps manage players who excessively spam the jump button by ragdolling their character when they overdo it. Keep your server's gameplay balanced and enjoyable for everyone.
+A job selection system designed specifically for QBCore servers. Players can interact with an NPC to browse and select from a list of available jobs. Fully compatible with both `ox_lib` and `qb`.
 
-## Features
-- Anti-Spam Mechanism: Detects and ragdolls players who excessively spam the jump button.
-- Fair Play: Ensures a balanced gameplay experience by preventing disruptive behavior.
-- Efficient and Lightweight: Designed to be efficient and easy to integrate into your server.
+<img width="1920" height="1080" alt="thumbnail" src="https://github.com/user-attachments/assets/b72c56b1-a0b5-4f9e-870b-839082731b25" />
 
-## Installation
-#### 1. Download the Script:
-Clone or download the script from the GitHub repository.
 
-#### 2. Add to Your Resources:
-Place the steff-antispamjump folder in your RedM server resources directory.
+### YouTube Preview
+https://youtu.be/CmEO9HqPNRY
 
-#### 3. Update server.cfg:
-Add the following line to your server.cfg to ensure the resource is started.
+## 🛠️ Installation
 
-ensure steff-antispamjump
+### 1. **Download the script**
 
-## Usage
-The script runs automatically once installed and started. It monitors players' jump actions and will ragdoll any player who excessively spams the jump button.
+Download the latest version of this script
 
-### Example
-Here's an example of what happens when a player spams the jump button too many times:
-https://streamable.com/i1hydq
+### 2. **Rename the folder**
 
-## Contact
-For any issues, suggestions, or custom requests, join our Discord community.
+After unzipping, rename the folder: `steff_jobcenter`
 
-- Our Discord: https://discord.gg/SyNGm3eXmP
+### 3. **Place it in your resources folder**
 
-- Project Link: https://github.com/SteffWS/steff-antispamjump
+Move the renamed `steff_jobcenter` folder into your server’s resources.
+
+### 4. **Add it to your server.cfg**
+
+Ensure the resource in your `server.cfg`:
+
+```cfg
+ensure steff_jobcenter
+```
+
+## ⭐ Support the Project
+If you like this script, consider giving the repository a ⭐️ - it lets me know you like it!
+
+## 🎯 SEO
+
+qbcore, jobcenter, ox_lib, ox_target, qb-target, fivem, roleplay, jobs, job menu, job system, free, progress bars, animations, notifications, ox_notify, server validation, cooldown, ped interaction, customizable config, security, exploits prevention, player experience, smooth UI, interaction, npc, ped, job switching, qbcore notifications, progress animations, context menu, fivem script, job selection, roleplay economy, job cooldown, server-side, easy install, comprehensive, flexible config, professional code, secure script, custom jobs, delivery job, mining job, ox_lib progress, ox_lib context, ox_lib animations, qbcore jobs, job center script, game server, gaming, multiplayer, scripting, lua script, qbcore framework
